@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<dict>
+			<key>Question</key>
+			<string>jQuery is a JavaScript Library</string>
+			<key>CorrectAnswer</key>
+			<string>Correct</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>jQuery uses CSS selectors to select elements</string>
+			<key>CorrectAnswer</key>
+			<string>Correct</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>JavaScript is the same as Java.</string>
+			<key>CorrectAnswer</key>
+			<string>Wrong</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>SQL stand for Strong Question Language.</string>
+			<key>CorrectAnswer</key>
+			<string>Wrong</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The external JavaScript file must contain the &lt;script&gt; tag</string>
+			<key>CorrectAnswer</key>
+			<string>Correct</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>JavaScript is the same as Java.</string>
+			<key>CorrectAnswer</key>
+			<string>Wrong</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Google</string>
+				<string>The World Wide Web Consortium</string>
+				<string>Mozilla</string>
+				<string>Microsoft</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>The World Wide Web Consortium</string>
+			<key>Question</key>
+			<string>Who is making the Web standards?</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Creative Style Sheets</string>
+				<string>Cascading Style Sheets</string>
+				<string>Colorful Style Sheets</string>
+				<string>Computer Style Sheets</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Cascading Style Sheets</string>
+			<key>Question</key>
+			<string>What does CSS stand for?</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>document.getElementById(&quot;demo&quot;).innerHTML = &quot;Hello World!&quot;;</string>
+				<string>document.getElementByName(&quot;p&quot;).innerHTML = &quot;Hello World!&quot;;</string>
+				<string>#demo.innerHTML = &quot;Hello World!&quot;;</string>
+				<string>document.getElement(&quot;p&quot;).innerHTML = &quot;Hello World!&quot;;</string>
+			</array>
+			<key>Question</key>
+			<string>What is the correct JavaScript syntax to change the content of &lt;p id=&quot;demo&quot;&gt;This is a demonstration.&lt;/p&gt;？</string>
+			<key>CorrectAnswer</key>
+			<string>document.getElementById(&quot;demo&quot;).innerHTML = &quot;Hello World!&quot;;</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>&lt;?php&gt;...&lt;/?&gt;</string>
+				<string>&lt;&amp;&gt;...&lt;/&amp;&gt;</string>
+				<string>&lt;?php...?&gt;</string>
+				<string>&lt;script&gt;...&lt;/script&gt;</string>
+			</array>
+			<key>Question</key>
+			<string>PHP server scripts are surrounded by delimiters, which?</string>
+			<key>CorrectAnswer</key>
+			<string>&lt;?php&gt;...&lt;/?&gt;</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>With SQL, how do you select all the columns from a table named &quot;Persons&quot;?</string>
+			<key>CorrectAnswer</key>
+			<string>SELECT * FROM Persons</string>
+			<key>Answers</key>
+			<array>
+				<string>SELECT Persons</string>
+				<string>SELECT * FROM Persons</string>
+				<string>SELECT *.Persons</string>
+				<string>SELECT [all] FROM Persons</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Travelling salesman problem is an example of？</string>
+			<key>CorrectAnswer</key>
+			<string>Greedy Algorithm</string>
+			<key>Answers</key>
+			<array>
+				<string>Dynamic Algorithm</string>
+				<string>Recursive Approach</string>
+				<string>Divide &amp; Conquer</string>
+				<string>Greedy Algorithm</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>How many swaps are required to sort the given array using bubble sort {2，5，1，3，4}？</string>
+			<key>CorrectAnswer</key>
+			<string>4</string>
+			<key>Answers</key>
+			<array>
+				<string>4</string>
+				<string>5</string>
+				<string>6</string>
+				<string>7</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>If the data collection is in sorted form and equally distributed then the run time complexity of interpolation search is</string>
+			<key>CorrectAnswer</key>
+			<string>O(O(log n))</string>
+			<key>Answers</key>
+			<array>
+				<string>O(n)</string>
+				<string>O(1)</string>
+				<string>O(log n)</string>
+				<string>O(O(log n))</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Which of the following function of Array object returns a new array comprised of this array joined with other array(s) and/or value(s)?</string>
+			<key>CorrectAnswer</key>
+			<string>concat()</string>
+			<key>Answers</key>
+			<array>
+				<string>concat()</string>
+				<string>pop()</string>
+				<string>push()</string>
+				<string>some()</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Consider that you have a collection called population which has fields state and city. Which of the following query will calculate the population grouped by state and city?</string>
+			<key>CorrectAnswer</key>
+			<string>Squash</string>
+			<key>Answers</key>
+			<array>
+				<string>db.population.aggregate( [{ $group: { _id: { state: &quot;$state&quot;, city: &quot;$city&quot; },pop: { $sum: &quot;$pop&quot; } } }] )</string>
+				<string>db.population.aggregate( [{ $group: { _id: { state: &quot;$state&quot;, city: &quot;$city&quot; },pop: { $sum: 1 } } }] )</string>
+				<string>db.population.aggregate( [{ $group: { _id: { state: &quot;$state&quot;, city: &quot;$city&quot; },pop: { {$pop: 1 } } }] )</string>
+				<string>db.population.aggregate( [{ $group: { _id: { city: &quot;$city&quot; },pop: { $sum: &quot;$pop&quot; } } }] )Multi Document Transaction is not supported by MongoDB</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

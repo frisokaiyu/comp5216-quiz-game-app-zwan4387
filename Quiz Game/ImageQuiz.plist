@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Youtube</string>
+				<string>Google</string>
+				<string>Taobao</string>
+				<string>Netflix</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Youtube</string>
+			<key>Question</key>
+			<string>youtube.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Netflix</string>
+				<string>Xcode</string>
+				<string>Chuizi</string>
+				<string>JetBrains</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Xcode</string>
+			<key>Question</key>
+			<string>Xcode.png</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Bill Gates</string>
+				<string>Jack Ma</string>
+				<string>Steve Jobs</string>
+				<string>Zackburg</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Steve Jobs</string>
+			<key>Question</key>
+			<string>steve-jobs.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Swift</string>
+				<string>Java</string>
+				<string>Json</string>
+				<string>Nodejs</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Swift</string>
+			<key>Question</key>
+			<string>swift.png</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Swift</string>
+				<string>Google</string>
+				<string>Nodejs</string>
+				<string>Neo4j</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Google</string>
+			<key>Question</key>
+			<string>google.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Google</string>
+				<string>Facebook</string>
+				<string>FaceTime</string>
+				<string>Wechat</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Facebook</string>
+			<key>Question</key>
+			<string>facebook.png</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Amazon</string>
+				<string>Google</string>
+				<string>Microsoft</string>
+				<string>Alibaba</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Alibaba</string>
+			<key>Question</key>
+			<string>alibaba.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Microsoft</string>
+				<string>Amazon</string>
+				<string>Facebook</string>
+				<string>Apple</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Microsoft</string>
+			<key>Question</key>
+			<string>microsoft.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Jack Ma</string>
+				<string>Obama</string>
+				<string>Donald Trump</string>
+				<string>Bill Gates</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Donald Trump</string>
+			<key>Question</key>
+			<string>trump.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Bill Gates</string>
+				<string>Qiangdong Liu</string>
+				<string>Jack Ma</string>
+				<string>Steve Jobs</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Bill Gates</string>
+			<key>Question</key>
+			<string>billgates.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Steve Jobs</string>
+				<string>Bill Gates</string>
+				<string>Jack Ma</string>
+				<string>Jerry Wang</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Jack Ma</string>
+			<key>Question</key>
+			<string>jackma.jpg</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Facebook</string>
+				<string>Whatsapp</string>
+				<string>QQ</string>
+				<string>Wei Xin</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>Wei Xin</string>
+			<key>Question</key>
+			<string>wechat.png</string>
+		</dict>
+		<dict>
+			<key>Answers</key>
+			<array>
+				<string>Neo4j</string>
+				<string>MongoDB</string>
+				<string>Java</string>
+				<string>Python</string>
+			</array>
+			<key>CorrectAnswer</key>
+			<string>MongoDB</string>
+			<key>Question</key>
+			<string>mongodb.jpg</string>
+		</dict>
+	</array>
+</dict>
+</plist>
